@@ -4,13 +4,7 @@ Desenvolvedor com foco em **Front-end**, cursando Análise e Desenvolvimento de 
 
 ---
 
-### 📊 Minhas Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giovanni-dev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-dev1&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180px">
-</p>
 
----
 
 ## 🚀 Sobre mim
 
